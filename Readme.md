@@ -45,7 +45,7 @@ This is a basic web application for user authentication and authorization. It su
    Create a PostgreSQL database and configure the connection properties in the `application.properties` or `application.yml` file:
 
     ```properties
-    spring.datasource.url=jdbc:postgresql://localhost:5432/t1_security_db
+    spring.application.name=T1-security
     spring.datasource.username=your_username
     spring.datasource.password=your_password
     spring.jpa.hibernate.ddl-auto=update
