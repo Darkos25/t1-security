@@ -50,7 +50,6 @@ This is a basic web application for user authentication and authorization. It su
     spring.datasource.password=your_password
     spring.jpa.hibernate.ddl-auto=update
     ```
-
 3. **Build and run the application:**
 
    Use Maven to build and run the application:
